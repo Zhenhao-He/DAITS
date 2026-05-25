@@ -1,5 +1,6 @@
 # DAITS
-DAITS is a driver attention prediction dataset collected in interactive and dynamic traffic scenarios. Inspired by the NuPlan dataset format, DAITS provides synchronized driving scene images, driver gaze annotations, fixation maps, attention maps, point clouds, ego-motion information, maneuver labels, and structured database metadata.
+
+DAITS is a driver attention prediction dataset proposed in the paper **A Novel Dataset and Model for Driver Attention Prediction in Interactive Dynamic Traffic**. It is collected in interactive and dynamic traffic scenarios.Inspired by the NuPlan dataset format, DAITS provides synchronized driving scene images, driver gaze annotations, fixation maps, attention maps, point clouds, ego-motion information, maneuver labels, and structured database metadata.
 
 # Overview
 The dataset is available at [DAITS](https://huggingface.co/datasets/hezhenhao/DAITS). DAITS is designed to support research on driver attention allocation in complex traffic interactions. The sample sequence `demo_dataset` includes:
